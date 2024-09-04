@@ -1,4 +1,5 @@
 Este repositório contém a implementação de um `Assembler primitivo`, fazendo a conversão de código `Assembly MIPS32` para `Binário` ou `Hexadecimal` (o hexadecimal em formato compatível para implementação de imagem nas memórias utilizadas no Logisim).
+
 Esse Assembler foi criado como um dos trabalhos da cadeira `Arquitetura e Organização de Computadores`, do curso de `Ciência da Computação` da `Ufersa`
 
 Não ocorre tratamento de erros, então é necessário que o código Assembly utilizado possua sintaxe correta, bem como utilização dos registradores corretos.
