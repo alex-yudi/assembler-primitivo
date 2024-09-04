@@ -4,6 +4,8 @@ Esse Assembler foi criado como um dos trabalhos da cadeira `Arquitetura e Organi
 
 Não ocorre tratamento de erros, então é necessário que o código Assembly utilizado possua sintaxe correta, bem como utilização dos registradores corretos.
 
+Por se tratar de uma implementação primitiva e para nível de conhecimento, não é aplicado uma arquitetura ou organização de arquivos, separando funções em arquivos distintos. Todas as implementações são realizadas em um arquivo único.
+
 ## Para executar:
   Por se tratar de um código em python, é necessário que a máquina possua ele instalado.
   
